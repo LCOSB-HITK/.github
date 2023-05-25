@@ -24,8 +24,11 @@ This organisation is built to provide documentation and workspace to maintain/de
 - Oct 2023  : DEPLOYMENT in the library
 - Dec 2023  : handing over chief maintainance
 
-## Contact
+## Join Us
 If you're interested in the project or want to work with a hustling pack of brains, please feel free to approach us. We are actively looking out for new minds and new ideas. This is going to be a collective effort from the HITK students and a collective achivement to brag about. Awaiting your mind 🦾🤜 let's build this shit. 
+
+## Disclaimer
+**AS OF NOW**, Heritage Institute Of Technology, Kolkata : it's staff or faculty or any related personel **DOES NOT** endorse or support or allow any real-life deployment of this project. This project has not been proposed to any officials or people of authority. This project is being developed only as an educational vocation with hypothetical posibility of being actually deployed. No private information or any resources of HITK is being used. The goal and direction of this project will always be to make a potential positive educational difference in HITK.
 
 <!--
 
