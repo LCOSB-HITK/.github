@@ -2,6 +2,7 @@
 (This is an awfull name for sure)
 
 This organisation is built to provide documentation and workspace to maintain/develop the project in the future. Current chief maintainer's college-contact : shubhadeep.sarkar.cse24@heritageit.edu.in
+
 Meet the [Team](https://github.com/LCOSB-HITK/TEAM)
 
 ## Project Objectives
