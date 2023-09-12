@@ -1,4 +1,4 @@
-# Library Chair Organiser Swarm Bots - for Heritage Institue of Technology, Kolkata
+# Library Chair Organiser Swarm Bots (for Heritage Institue of Technology, Kolkata)
 (This is an awfull name for sure)
 
 This organisation is built to provide documentation and workspace to maintain/develop the project in the future. Current chief maintainer's college-contact : shubhadeep.sarkar.cse24@heritageit.edu.in
