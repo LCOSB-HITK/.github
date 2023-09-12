@@ -2,6 +2,7 @@
 (This is an awfull name for sure)
 
 This organisation is built to provide documentation and workspace to maintain/develop the project in the future. Current chief maintainer's college-contact : shubhadeep.sarkar.cse24@heritageit.edu.in
+Meet the [Team](https://github.com/LCOSB-HITK/TEAM)
 
 ## Project Objectives
 - To build and maintain a small number (<=10) of tiny (smaller than a shoe box atleast) bots, capable of moving library chairs into appropriate positions (relative to tables) in an locally-independent but swarm-intelligent method(-ology), using cheap (as much as possible) and easily available/constructible hardware, implementing robust and highly efficient software.
