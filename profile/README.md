@@ -19,7 +19,7 @@ Meet the [Team](https://github.com/LCOSB-HITK/TEAM)
 - Distributed Compute module
 - Job scheduling module/protocol
 -->
-## Project Deadline [Updated on 2023 09 22]
+## Project Deadline [Updated on 2023 09 22] [halted as of 2023 11 02]
 - June 2023 : single unit prototype ready; mechanical feasibility validated
 - July 2023 : multi unit (>=3 units) prototype ready (swarm bot s/w integration); swarm intelligence and collaboration validated
 - Sept 2023 : multi unit (>=3 units) prototype ready (swarm bot s/w integration); swarm intelligence and collaboration validated
